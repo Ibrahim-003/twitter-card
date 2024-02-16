@@ -1,8 +1,19 @@
-# React + Vite
+# Minimal-Blog-Card - #devChallenges
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a minimalist card component for displaying blog or article information. It utilizes technologies such as React and Tailwind CSS to create a clean and elegant user interface.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+
+## Demo
+
+You can see a demonstration of the application in action [Minimal-Blog-Card](https://ibrahim-003.github.io/minimal-blog-card/){:target="\_blank"}
+
+## Capturas de Pantalla
+
+![Presentacion desktop](./public/desktop.png)
