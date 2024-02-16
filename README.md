@@ -12,7 +12,7 @@ This project is a minimalist card component for displaying blog or article infor
 
 ## Demo
 
-You can see a demonstration of the application in action [Minimal-Blog-Card](https://ibrahim-003.github.io/minimal-blog-card/){:target="\_blank"}
+You can see a demonstration of the application in action [Minimal-Blog-Card](https://ibrahim-003.github.io/minimal-blog-card/){:target="_blank"}
 
 ## Capturas de Pantalla
 
