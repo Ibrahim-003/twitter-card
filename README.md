@@ -12,7 +12,7 @@ This project is a minimalist Twitter follow card component for displaying blog o
 
 ## Demo
 
-You can see a demonstration of the application in action [Twitter-Follow-Card](https://ibrahim-003.github.io/minimal-blog-card/)
+You can see a demonstration of the application in action [Twitter-Follow-Card](https://ibrahim-003.github.io/twitter-card/)
 
 ## Capturas de Pantalla
 
