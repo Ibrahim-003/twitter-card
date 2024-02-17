@@ -10,7 +10,7 @@ export const TwitterCard = ({ profile }) => {
   };
 
   return (
-    <article className="bg-white rounded-2xl px-3 py-2 flex items-center justify-between gap-4 border-2 border-matisse-900 md:gap-8 md:px-4 md:py-3 ">
+    <article className="bg-white rounded-2xl px-3 py-2 flex items-center justify-between gap-2 border-2 border-matisse-900 md:gap-8 md:px-4 md:py-3 ">
       <header className="flex gap-2 items-center">
         <img
           src={avatarURL}
@@ -22,7 +22,7 @@ export const TwitterCard = ({ profile }) => {
           <span className="text-xs md:text-sm">{account}</span>
         </div>
       </header>
-      <aside>
+      <aside className="w-[45%] md:w-auto flex justify-end">
         <Button isFollowing={isFollow} handleClick={handleFollow} />
       </aside>
     </article>

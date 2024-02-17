@@ -1,6 +1,6 @@
-# Minimal-Blog-Card - #devChallenges
+# Twitter-Follow-card - #miduChallenges
 
-This project is a minimalist card component for displaying blog or article information. It utilizes technologies such as React and Tailwind CSS to create a clean and elegant user interface.
+This project is a minimalist Twitter follow card component for displaying blog or article information. It leverages technologies such as React and Tailwind CSS to craft a clean and elegant user interface tailored for social media engagement.
 
 ## Technologies Used
 
@@ -12,8 +12,8 @@ This project is a minimalist card component for displaying blog or article infor
 
 ## Demo
 
-You can see a demonstration of the application in action [Minimal-Blog-Card](https://ibrahim-003.github.io/minimal-blog-card/){:target="_blank"}
+You can see a demonstration of the application in action [Minimal-Blog-Card](https://ibrahim-003.github.io/minimal-blog-card/)
 
 ## Capturas de Pantalla
 
-![Presentacion desktop](./public/desktop.png)
+![Presentacion desktop](./public/desktop-view.png)
